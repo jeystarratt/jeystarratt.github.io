@@ -1,8 +1,12 @@
 /* Theme */
 
 main {
-	background: #485564;
+	background: #1F1F24;
 	color: #FAFAFA;
+}
+
+main > .summary {
+	color: #41B645;
 }
 
 .icons-social a {
